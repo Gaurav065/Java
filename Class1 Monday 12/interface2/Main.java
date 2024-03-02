@@ -14,6 +14,10 @@ interface Calculator{
 }
 
 abstract class Mobile implements BWTelevision,Calculator{ 
+
+    
+
+
 	public void movies(){
 		System.out.println("Movie named Bahubali is streaming");
 	}
