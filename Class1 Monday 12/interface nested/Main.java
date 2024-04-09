@@ -17,6 +17,6 @@ public class main {
         
         test t = new test();
         t.dispaly();
-        System.out.println(t.result())
+        System.out.println(t.result());
     }
 }
